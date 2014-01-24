@@ -1,8 +1,4 @@
-/*
-    Beginning Game Programming, Third Edition
-    Chapter 4
-    Load Bitmap program
-*/
+
 
 #include <windows.h>
 #include <d3d9.h>
